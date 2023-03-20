@@ -1,7 +1,7 @@
 # Resume generator
 Online editor to create Resume in a customizable template  
   
-Try it : 
+Try it : https://aaditya713.github.io/Resume_Generator/
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
